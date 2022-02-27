@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament, in answer to a proclamation, set forth in His Majesties name, concerning the receipt and payment of customs. Whereunto is annexed, the ordinance concerning the subsidie of tonnage and poundage. Die Sabbati 31 Decembris, 1642. Ordered by the Lords and Commons assembled in Parliament, that this Declaration be forthwith printed and published. Hen. Elsynge Cler. Parliament. Dom. Com.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82696</idno>
+            <idno type="STC">Wing E1441</idno>
+            <idno type="STC">Thomason E84_7</idno>
+            <idno type="STC">Thomason E84_8</idno>
+            <idno type="STC">ESTC R21259</idno>
+            <idno type="EEBO-CITATION">99871194</idno>
+            <idno type="PROQUEST">99871194</idno>
+            <idno type="VID">155646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155646)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[7], 14:E84[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament, in answer to a proclamation, set forth in His Majesties name, concerning the receipt and payment of customs. Whereunto is annexed, the ordinance concerning the subsidie of tonnage and poundage. Die Sabbati 31 Decembris, 1642. Ordered by the Lords and Commons assembled in Parliament, that this Declaration be forthwith printed and published. Hen. Elsynge Cler. Parliament. Dom. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaiklock, and are to be sold at Temple Barre in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts. Part 2, An ordinance of Parliament, concerning the subsidie of tonnage and poundage, has a separate dated title page; pagination and register are continuous.</note>
+                  <note>Part 2 = Thomason E.84[8]. Also issued separately? Cf. Wing E1795A.</note>
+                  <note>Annotation on Thomason copy: "January 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Subsidies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155646:1"/>
+            <!-- PDF PAGE 55 -->
+            <p>AN ORDINANCE OF PARLIAMENT, <hi>Concerning</hi> THE SVBSIDIE OF TONNAGE AND POUNDAGE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Lawrence Blaiklock,</hi> and are to be ſold at Temple Barre in Fleet-ſtreet, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:155646:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="7" facs="tcp:155646:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <head>AN ORDINANCE OF PARLIAMENT, Concerning the Subſidy of Tonnage and Poundage.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons now aſſembled in Parliament, taking into conſideration the great perills and dangers that may enſue, not only to this Kingdom, but likewiſe unto that of <hi>Ireland,</hi> eſpecially in theſe times of apparent danger, farre exceeding all former times, either of his Majeſty, or of his Royall Father King <hi>Iames;</hi> and taking into further conſideration the great debt now due unto the Navie, as well before the beginning of this Parliament as ſince, amounted to the ſumme of two hundred thouſand pounds or thereabouts: and that two and fifty Ships of Warre are now in the actuall ſervice of this Kingdome, as well for the defence thereof as of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and not knowing what other ſupply of Ships and of ſtore will be further requiſite in theſe times of danger; and well knowing that they cannot bee maintained without great ſummes of Money, nor the ſaid great Arrears ſatisfied by any moneys already collected or owing by Merchants for the time paſt.</p>
+            <p>
+               <pb n="8" facs="tcp:155646:3"/>
+               <!-- PDF PAGE 57 -->
+And foreſeeing the danger and the neceſſity of the ſup<g ref="char:EOLhyphen"/>ply, did long before this time prepare a new book of Rates which paſſed both Houſes, now ordered to be publiſhed, wherein they had as well an equall reſpect to the eaſe of Merchants, as to the raiſing of ſuch ſummes of money as might be proportionable to thoſe ſupplies: and did like<g ref="char:EOLhyphen"/>wiſe prepare and paſſe a Bill of Tonnage and Poundage, whereby the Book of Rates is confirmed; which Bill they have likewiſe ordered to be printed and publiſhed, which after they were paſt both Houſes, were upon the 29<hi rend="sup">th</hi> day of June laſt paſt, ſent to his Majeſty to <hi>York</hi> for the Royall Aſſent; which his Majeſty not having paſſed, the Lords and Commons did upon the fourteenth day of this inſtant July command the Earle of <hi>Holland,</hi> Sir <hi>Iohn Holland,</hi> and Sir <hi>Philip Stapleton</hi> (by whom they did-ſend the late Peti<g ref="char:EOLhyphen"/>tion to his Majeſty) in the name of both Houſes, to move his Majeſty to give a ſpeedy paſſage to that Bill, whereunto his Majeſty hath given no Anſwer at all. And whereas the former Bill of Tonnage and Poundage did determine the firſt day of this inſtant July, ſince which time no moneys intended to be raiſed by this laſt Bill have beene collected. Now the ſaid Lords and Commons having taken the pre<g ref="char:EOLhyphen"/>miſes into due and ſerious conſideration for preventing the inevitable dangers that muſt neceſſarily enſue, without timely prevention in that behalfe, have thought good to make this their Declaration to all his Majeſties loving Subjects.</p>
+            <p>Firſt, whereas by an Act made this preſent Parliament, entituled, an Act for the reliefe of the Captives taken by the Turkiſh Mooreiſh, and other Pyrats, and to prevent the taking of others in time to come, All Merchants aſwell Denizens as Aliens, for any goods exported or imported from the tenth day of December one thouſand ſix hundred
+<pb n="9" facs="tcp:155646:3"/>
+               <!-- PDF PAGE 57 -->forty and one, during the terme of three yeares then next enſuing, are to make due entries of ſuch their goods in the Port of <hi>London,</hi> and all other his Majeſties Ports within the Realme of <hi>England</hi> and Dominion of <hi>Wales</hi> upon the penalty of the forfeiture of the ſaid goods.</p>
+            <p>Now the ſaid Lords and Commons doe enjoyne all Merchants as well Denizens as Aliens to make due entry of all ſuch goods and Merchandize, as they ſhall, during the continuance of the ſaid Act, export or import. And to the intent that the Entries may be accordingly made, they doe expect that the Cuſtomers, Comptrollers, Sear<g ref="char:EOLhyphen"/>chers, and other the Officers of the ſaid City of <hi>London,</hi> and other the Ports reſpectively doe carefully attend their ſe<g ref="char:EOLhyphen"/>verall charges, and make due ſeizure, as forfeited, of all ſuch goods and Merchandize as ſhall not be entred according to the intent of the ſaid Statute.</p>
+            <p n="2">2. That although the ſaid laſt Bill of Tonnage and Poundage hath not yet had the Royall Aſſent, and there<g ref="char:EOLhyphen"/>fore the Subject by the Law is not compellable to pay the duty therein limited to be paid; yet the premiſes and preſ<g ref="char:EOLhyphen"/>ſing neceſſities conſidered, the Lords and Commons doe declare, that it ſhall be taken as an acceptable ſervice to the Common-wealth by a manifeſtation of their good af<g ref="char:EOLhyphen"/>fections to the publick of all thoſe, that ſhall upon entry of their goods advance, and pay by way of Loane unto the Collectors, or Commiſſioners, which now are, or hereafter ſhall be named, or to their Deputy or Deputies all ſuch ſum or ſummes of money as are payable by the laſt Book of Rates, and ſhould have beene due in caſe the ſaid Bill had paſt for a Law.</p>
+            <p n="3">3 That every Merchant ſo advancing money as above<g ref="char:EOLhyphen"/>ſaid, ſhall have allowance by way of defalcation of fifteen pounds <hi>per cent.</hi> out of every hundred pou<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds hee or they
+<pb n="10" facs="tcp:155646:4"/>
+               <!-- PDF PAGE 58 -->ſhall ſo advance and pay, over and above all other allowan<g ref="char:EOLhyphen"/>ces made in the ſaid Bill or Book of Rates, or either of them, and ſo out of every greater and leſſer ſumme, after that rate.</p>
+            <p n="4">4 Whereas the Bill of Tonnage and Poundage now re<g ref="char:EOLhyphen"/>maining with his Majeſty, cannot have the force of a Law without the further concurrence of the Lords and Com<g ref="char:EOLhyphen"/>mons, in reſpect the Speaker of the Houſe of Commons by and with the conſent of the ſaid Commons is to carry the ſaid Bill up into the Lords Houſe for the Royall aſ<g ref="char:EOLhyphen"/>ſent; as alſo in reſpect that in his Majeſties abſence from Parliament, his Majeſty hath no power to paſſe his Royall aſſent unto a Bill, but by his Letters Patents under the great Seale, and ſigned with his hand, declared and notified to the Lords and Commons aſſembled together in the higher Houſe, as by a Statute made in the 23 yeare of the reigne of King <hi>Henry</hi> the eighth, <hi>c.</hi> 21. appeareth. Now the Lords and Commons, for the further aſſurance of Merchants ad<g ref="char:EOLhyphen"/>vancing moneys as aforeſaid, doe promiſe and declare, that before they conſent to the perfecting of the ſaid Bill of of Tonnage, and Poundage now remaining with his Ma<g ref="char:EOLhyphen"/>jeſty, or any other Bill of Tonnage and Poundage whatſo<g ref="char:EOLhyphen"/>ever, proviſion ſhall be made that the ſaid allowance of fif<g ref="char:EOLhyphen"/>teene <hi>per Cent.</hi> ſhall be confirmed unto the ſaid Merchants accordingly. And that they, their heirs executors admini<g ref="char:EOLhyphen"/>ſtrators and aſſignes ſhall be forever acquitted and diſcharg<g ref="char:EOLhyphen"/>ed of, and from the payment thereof.</p>
+            <p n="5">5 To the intent that no Merchant doth forbeare to ad<g ref="char:EOLhyphen"/>vance the ſaid moneys by way of Loan, according as here<g ref="char:EOLhyphen"/>by is deſired, in hope that the duties in the ſaid Bill ſhall not hereafter become payable from the firſt day of Iuly, 1642 The Lords and Commons doe declare that no Bill of Tonnage and Poundage ſhall hereafter paſſe in Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="11" facs="tcp:155646:4"/>
+               <!-- PDF PAGE 58 -->but ſuch as ſhall relate &amp; be in force to compell all merchants to pay for all goods and merchandize expoſed or impoſed from the ſaid firſt day of Iuly, 1642 on which day the former Bill of Tonnage and Poundage expired. In which Bill there ſhall be that clauſe of forfeiture of the va<g ref="char:EOLhyphen"/>lue of all ſuch goods as ſhall not be duly entred in the Cuſ<g ref="char:EOLhyphen"/>tome houſe from, and after that day in ſuch manner as in the ſaid Bill is expreſſed.</p>
+            <p n="6">6 That all Merchants who ſhall not advance mony by way of Loan as aforeſaid in regard of the preſent and preſſing dangers, and neceſſities, The Lords and Commons do de<g ref="char:EOLhyphen"/>clare, that at what time ſoever they ſhall conſent to the paſſing of any Bill of Tonnage and poundage, All ſuch perſons who ſhall not advance moneyes as aforeſaid ſhall be charged to pay the duties of Tonnage and Poundage, from the ſaid firſt day ot Iuly one thouſand ſixe hundred forty two, during the Terme of the ſaid Bill in ſuch man<g ref="char:EOLhyphen"/>ner as by the ſaid Bill ſhall be provided.</p>
+            <p n="7">7 That to the intent that no officer belonging to any Cuſ<g ref="char:EOLhyphen"/>tomehouſe within this Kingdome, or the Dominion of <hi>wales,</hi> or other perſons appointed to be Commiſſioners for receiving of ſuch monies as ſhall be abvanced by Merchants as aforeſaid, be diſcouraged by reaſon of any Penalties men<g ref="char:EOLhyphen"/>tioned in any former Act of Tonnage and Poundage paſt this Parliament, for receiving of any duties upon Merchan<g ref="char:EOLhyphen"/>dize not being granted by Parliament, Although the Lords and Commons doe conceive and hereby declare; That the receiving of the ſaid Sums of Money before mentioned is not within the true intention of the ſaid Penalties, the ſame being advanced voluntarily by way of Loane: as alſo in reſpect thoſe Acts, and the true intent of them, were principally to reſtraine the Crowne from impoſing upon the people without their conſent. Yet for the further in<g ref="char:EOLhyphen"/>couragement
+<pb n="12" facs="tcp:155646:5"/>
+               <!-- PDF PAGE 59 -->of ſuch perſon or perſons who ſhall receive any ſuch Sums, They doe declare and promiſe: That wher<g ref="char:EOLhyphen"/>as the ſaid Bill of Tonnage and Poundage now remaining with his Majeſty or any other doe paſſe for a Law, there ſhall be proviſion made in ſuch Bill for the indempnity and ſecurity of all ſuch perſon and perſons in that behalfe.</p>
+            <p n="8">8. That whereas by a former Order of the Commons Houſe of <hi>Parliament:</hi> the officers appointed for that pur<g ref="char:EOLhyphen"/>poſe have Order to take Bonds of all Merchants for the payment of one <hi>per Cent.</hi> to be raiſed by vertue of the a<g ref="char:EOLhyphen"/>foreſaid Bill for the releife of the Captives taken by Turk<g ref="char:EOLhyphen"/>iſh or other pyrates, or ſo much thereof as ſhall be agreed on by the Lords and <hi>Commons</hi> in <hi>Parliament.</hi> It is now or<g ref="char:EOLhyphen"/>dered, That all ſuch Merchants as ſhall not advance money by way of Loane as aforeſaid, ſhall at all times hereafter upon entry of their goods, make payment of ready mo<g ref="char:EOLhyphen"/>ney for their ſaid goods according to the Tenour of the ſaid bill, and likewiſe all ſuch other ſummes of Money as by vertue of the ſaid Bill are due from the ſaid Merchants, upon Bill or otherwiſe for goods by them formerly entred, ſince the tenth day of <hi>December</hi> one thouſand ſixe hundred, fortie and one, by the true intent of which <hi>Act</hi> the one <hi>per Cent.</hi> to be paid and received, is to be taken and received according to ſuch <hi>Rates</hi> as were due and payable by the Bill of <hi>Tonnage</hi> and <hi>Poundage</hi> which did laſt determine.</p>
+            <p n="9">9. The <hi>Lords</hi> and <hi>Commons</hi> doe ordaine that the ſame Collectors or Commiſſioners who have formerly received the ſeverall Duties upon Merchandize, upon the ſeverall Bills of <hi>Tonnage</hi> and <hi>Poundage</hi> paſt this <hi>Parliament,</hi> ſhall be, and are deputed to be Commiſſioners, who are enabled by this Ordinance to receive all ſuch ſumme or ſummes of Money, which ſhall at any time hereafter be voluntarily advanced by way of Loane in ſuch manner as they have
+<pb n="13" facs="tcp:155646:5"/>
+               <!-- PDF PAGE 59 -->formerly received, the former duties of <hi>Tonnage</hi> and <hi>Poun<g ref="char:EOLhyphen"/>dage,</hi> which ſaid Commiſſioners, their Deputy or Deputies, or any one of them, ſhall have full power and authority to give allowance by way of defalcation after the rate of fif<g ref="char:EOLhyphen"/>teene <hi>per Cent.</hi> out of all ſuch moneyes as ſhall be advanced, according to the true intent of this Ordinance. All which moneys the ſaid Commiſſioners their Deputy or Depu<g ref="char:EOLhyphen"/>ties ſhall receive upon Accompt, and ſhall from time to time iſſue out the ſame, as they the ſaid Commiſſioners ſhall be authorized by Order of the Lords and Commons in <hi>Parliament,</hi> or of ſuch other perſon or perſons as they ſhall nominate and appoint, to be imployed for the uſes herein before expreſſed.</p>
+            <p n="10">10 For the more due Execution of the Premiſes, and that account be juſtly kept and the Commiſſioners duely charged, the Cuſtomers and Comptrollers aſwell of the City of <hi>London</hi> as the Out-ports are required once in eve<g ref="char:EOLhyphen"/>ry 28. dayes to make a true accompt, of all ſuch entries as have beene made in the ſeverall Ports reſpectively, and of the moneys payable by the ſaid Entries, and are to certifie the ſaid accompts monthly unto <hi>William Toames</hi> Eſquire Surveyer Generall in the Cuſtome Houſe of <hi>London,</hi> who is likewiſe required to make up a perfect Accompt upon all the ſeverall Certificates, and to returne in the ſame un<g ref="char:EOLhyphen"/>to the Commons Houſe of <hi>Parliament,</hi> or to ſuch <hi>Committee</hi> as ſhall bee thereunto authorized by them.</p>
+            <p n="11">11. That for the better directions aſwell of the Mer<g ref="char:EOLhyphen"/>chants, what is to be performed on their parts, as of ſeve<g ref="char:EOLhyphen"/>rall Officers of the Cuſtom Houſe in the ſeverall Ports re<g ref="char:EOLhyphen"/>ſpectively. It is Ordained by the Lords and Commons now aſſembled in <hi>Parliament,</hi> That a true Coppy of the ſaid Bill of <hi>Tonnage</hi> and <hi>Poundage</hi> which hath paſt both Houſes, and now remaining with his Majeſty, ſhall be print<g ref="char:EOLhyphen"/>ed,
+<pb n="14" facs="tcp:155646:6"/>
+               <!-- PDF PAGE 60 -->and both it and the ſaid Booke of Rates publiſhed and ſent aſwell to the Officers of the Cuſtome Houſe in the City of <hi>London,</hi> as unto the Officers of the Out-ports re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            <p>Laſtly, for the incouragement of Merchants Strangers trading in the Port of <hi>Dover</hi> to continue their intercourſe of Trade, and the importation of <hi>Bullion</hi> and forraigne Coyne; It is ordered by the ſaid Lords and Commons, that the ſeverall Officers in that Port reſpectively ſhall and may from time to time give unto all Merchants Strangers the like reſpect and allowance in their Cuſtomes, as they have formerly done.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
